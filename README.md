@@ -4,7 +4,20 @@
 
 # Gabriel Carvalho
 
-**Software Developer** | **Computer Science Student** <>
+**Software Developer** | **Computer Science Student**
+
+</div>
+
+## 📊 Coding Activity
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C0C0C0C%2C0C0C0C&fire=FF7B25&ring=FF7B25&currStreakLabel=FF7B25)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&icon_color=FF7B25&text_color=FFFFFF&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&text_color=FFFFFF&langs_count=6)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-dark&hide_border=true&area=true&height=300&bg_color=0C0C0C&color=FF7B25&line=FF7B25&point=FFFFFF)
 
 </div>
 
@@ -41,20 +54,10 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 ![Hardware](https://img.shields.io/badge/Hardware_Assembly-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
-## 📈 Activity
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xubous&theme=github-light&hide_border=true&area=true)
-
-</div>
-
-
-<div align="center">
-  
-📫 **Connect with me:** 
- Email    : gcs232005@gmail.com
- Linkedin : www.linkedin.com/in/xubous
+📫 **Connect with me:** [Your LinkedIn/Email]
 
 *Always learning, always growing.* 🚀
 
