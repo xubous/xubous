@@ -10,12 +10,16 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student at PUC Minas with a passion for technology and problem-solving. My favorite language is C++ and I enjoy exploring new technologies and sharing knowledge with others.
+I'm a Computer Science student at PUC Minas with strong problem-solving skills and a methodical approach to software development. I specialize in creating efficient solutions through code and enjoy working on both software and hardware projects.
+
+With a solid foundation in programming and systems development, I'm continuously expanding my technical expertise while maintaining practical, results-oriented approach to technology.
 
 - 🎓 **PUC Minas** - Computer Science Student
-- 💻 **Favorite Language**: C++
-- 🚗 **Interests**: Technology, cats, dogs, and cars
-- 🌱 **Always learning** and sharing experiences
+- 💻 **C++ Developer** - Focused on system programming and performance optimization  
+- 🚗 **Technology & Automotive** - Interested in software applications in automotive systems
+- 🐕 **Animals** - Adopt, care for, and love kitties and doggies 🐾
+- 📚 **Continuous Learning** - Committed to expanding my knowledge and skills
+- 🔧 **Practical Projects** - Experience in both software development and hardware assemblyes
 
 ## 🛠️ Technologies & Tools
 
