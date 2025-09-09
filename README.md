@@ -16,7 +16,7 @@ With a solid foundation in programming and systems development, I'm continuously
 
 - 🎓 **Pontifícia Universidade Católica Minas Gerais** - Computer Science Student
 - 💻 **C++ Developer** - Focused on system programming and performance optimization  
-- 🚗 **Technology & Automotive** - Interested in software applications in automotive systems
+- 🤖 **Automation** - Interested in creating automations that can help people in their daily lives
 - 🐕 **Animals** - Adopt, care for, and love kitties and doggies 🐾
 - 📚 **Continuous Learning** - Committed to expanding my knowledge and skills
 - 🔧 **Practical Projects** - Experience in both software development and hardware assemblyes
