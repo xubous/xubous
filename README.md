@@ -41,6 +41,14 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 ![Hardware](https://img.shields.io/badge/Hardware_Assembly-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
+## 📈 Activity
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-light&hide_border=true&area=true)
+
+</div>
+
 
 <div align="center">
   
