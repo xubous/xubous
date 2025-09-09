@@ -2,9 +2,9 @@
   
 ![GIF Decorativo](https://i.pinimg.com/originals/3c/a3/7c/3ca37c29061fce8aea80945c2dd7b3f9.gif)
 
-# 👋 Hello World! 
+# <> 
 
-I'm **Gabriel Carvalho** — a coffee enthusiast ☕, music lover 🎵, gamer 🎮, and passionate programmer 💻.
+I'm **Gabriel Carvalho** 
 
 </div>
 
