@@ -37,8 +37,9 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🔧 Hardware
+### 🔧 Hardware & Software
 ![Hardware](https://img.shields.io/badge/Hardware_Assembly-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Software](https://img.shields.io/badge/Software_Development-6DB33F?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 ## 📊 Coding Activity
 
