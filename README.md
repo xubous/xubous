@@ -40,18 +40,13 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 ### 🔧 Hardware
 ![Hardware](https://img.shields.io/badge/Hardware_Assembly-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=default"/>
-</div>
-
 ---
 
 <div align="center">
   
-📫 **Connect with me:** [Your LinkedIn/Email]
+📫 **Connect with me:** 
+- Email    : gcs232005@gmail.com
+- Linkedin : www.linkedin.com/in/xubous
 
 *Always learning, always growing.* 🚀
 
