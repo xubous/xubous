@@ -45,8 +45,8 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 <div align="center">
   
 📫 **Connect with me:** 
-- Email    : gcs232005@gmail.com
-- Linkedin : www.linkedin.com/in/xubous
+ Email    : gcs232005@gmail.com
+ Linkedin : www.linkedin.com/in/xubous
 
 *Always learning, always growing.* 🚀
 
