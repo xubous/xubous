@@ -47,7 +47,6 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=xubous&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C0C0C0C%2C0C0C0C&fire=FF7B25&ring=FF7B25&currStreakLabel=FF7B25)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xubous&show_icons=true&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&icon_color=FF7B25&text_color=FFFFFF&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&text_color=FFFFFF&langs_count=6)
 
 </div>
