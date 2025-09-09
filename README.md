@@ -45,7 +45,7 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-light&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xubous&theme=github-light&hide_border=true&area=true)
 
 </div>
 
