@@ -2,21 +2,20 @@
   
 ![GIF Decorativo](https://i.pinimg.com/originals/3c/a3/7c/3ca37c29061fce8aea80945c2dd7b3f9.gif)
 
-# <> 
+# Gabriel Carvalho
 
-I'm **Gabriel Carvalho** 
+**Software Developer** | **Computer Science Student**
 
 </div>
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 **Student at PUC Minas Gerais** - Always eager to learn a bit of everything
-- 💻 **Favorite Languages**: C (with a soft spot for Swift) 
-- 🌟 **Passionate** about learning and pushing my limits
-- 🛠️ **Skills**: Programming, hardware assembly, and database management
-- 🐱 **Fun fact**: I'm absolutely in love with cats and the moon 🌙
+I'm a Computer Science student at PUC Minas with a passion for technology and problem-solving. My favorite language is C++ and I enjoy exploring new technologies and sharing knowledge with others.
 
-> ✨ *No challenge is too small for those who never give up!*
+- 🎓 **PUC Minas** - Computer Science Student
+- 💻 **Favorite Language**: C++
+- 🚗 **Interests**: Technology, cats, dogs, and cars
+- 🌱 **Always learning** and sharing experiences
 
 ## 🛠️ Technologies & Tools
 
@@ -44,16 +43,16 @@ I'm **Gabriel Carvalho**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 ---
 
 <div align="center">
   
-Hope you have a great day and an even better night! It was a pleasure sharing this brief moment with you.
+📫 **Connect with me:** [Your LinkedIn/Email]
 
-*Seriously though... I really need a coffee right now.* `c_OC`
+*Always learning, always growing.* 🚀
 
 </div>
