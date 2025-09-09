@@ -4,7 +4,7 @@
 
 # Gabriel Carvalho
 
-**Software Developer** | **Computer Science Student**
+**Software Developer** | **Computer Science Student <>**
 
 </div>
 
