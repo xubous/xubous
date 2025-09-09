@@ -50,8 +50,6 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xubous&show_icons=true&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&icon_color=FF7B25&text_color=FFFFFF&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&text_color=FFFFFF&langs_count=6)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xubous&theme=github-dark&hide_border=true&area=true&height=300&bg_color=0C0C0C&color=FF7B25&line=FF7B25&point=FFFFFF)
-
 </div>
 
 <div align="center">
