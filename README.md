@@ -2,7 +2,7 @@
   
 ![GIF Decorativo](https://i.pinimg.com/originals/3c/a3/7c/3ca37c29061fce8aea80945c2dd7b3f9.gif)
 
-# Gabriel Carvalho
+# Gabriel Carvalho De Souza
 
 **Software Developer** | **Computer Science Student <>**
 
