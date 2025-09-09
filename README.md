@@ -6,6 +6,8 @@
 
 **Software Developer** | **Computer Science Student**
 
+</div>
+
 ## 👋 About Me
 
 I'm a Computer Science student at PUC Minas with a passion for technology and problem-solving. My favorite language is C++ and I enjoy exploring new technologies and sharing knowledge with others.
@@ -38,9 +40,6 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 ### 🔧 Hardware
 ![Hardware](https://img.shields.io/badge/Hardware_Assembly-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
----
-</div>
-
 ## 📊 Coding Activity
 
 <div align="center">
@@ -51,9 +50,13 @@ I'm a Computer Science student at PUC Minas with a passion for technology and pr
 
 </div>
 
+---
+
 <div align="center">
   
-📫 **Connect with me:** [Your LinkedIn/Email]
+📫 **Connect with me:**  
+Email: gcs232005@gmail.com  
+LinkedIn: [www.linkedin.com/in/xubous](https://www.linkedin.com/in/xubous)
 
 *Always learning, always growing.* 🚀
 
