@@ -66,3 +66,5 @@ LinkedIn: [www.linkedin.com/in/xubous](https://www.linkedin.com/in/xubous)
 *Always learning, always growing.* 🚀
 
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aeb49434-5cc4-4f28-a318-9bb8707b442f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
