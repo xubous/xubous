@@ -49,7 +49,7 @@ With a solid foundation in programming and systems development, I'm continuously
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xubous&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=xubous&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&text_color=FFFFFF&langs_count=6)
 
