@@ -15,7 +15,6 @@ I'm a Computer Science student at PUC Minas with strong problem-solving skills a
 With a solid foundation in programming and systems development, I'm continuously expanding my technical expertise while maintaining practical, results-oriented approach to technology.
 
 - 🎓 **Pontifícia Universidade Católica Minas Gerais** - Computer Science Student
-- 💻 **C++ Developer** - Focused on system programming and performance optimization  
 - 🤖 **Automation** - Interested in creating automations that can help people in their daily lives
 - 🐕 **Animals** - Adopt, care for, and love kitties and doggies 🐾
 - 📚 **Continuous Learning** - Committed to expanding my knowledge and skills
