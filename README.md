@@ -14,11 +14,14 @@ I'm a Computer Science student at PUC Minas with strong problem-solving skills a
 
 With a solid foundation in programming and systems development, I'm continuously expanding my technical expertise while maintaining practical, results-oriented approach to technology.
 
-- 🎓 **Pontifícia Universidade Católica Minas Gerais** - Computer Science Student
-- 🤖 **Automation** - Interested in creating automations that can help people in their daily lives
-- 🐕 **Animals** - Adopt, care for, and love kitties and doggies 🐾
-- 📚 **Continuous Learning** - Committed to expanding my knowledge and skills
-- 🔧 **Practical Projects** - Experience in both software development and hardware assemblyes
+- 🎓 **Pontifícia Universidade Católica Minas Gerais** - Computer Science Student  
+- 🤖 **Automation** - Interested in creating automations that can help people in their daily lives  
+- 🐕 **Animals** - Adopt, care for, and love kitties and doggies 🐾  
+- 📚 **Continuous Learning** - Committed to expanding my knowledge and skills  
+- 🔧 **Practical Projects** - Experience in both software development and hardware assemblies  
+- ☕ **Java Development** - Focused on building structured and object-oriented applications using **Java** for backend and desktop solutions  
+- 🐍 **Python Development** - Creating automations, data processing tools, and small web apps to optimize everyday tasks  
+
 
 ## 🛠️ Technologies & Tools
 
@@ -30,6 +33,8 @@ With a solid foundation in programming and systems development, I'm continuously
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
