@@ -1,15 +1,11 @@
 <div align="center">
   
 ![GIF Decorativo](https://i.pinimg.com/originals/3c/a3/7c/3ca37c29061fce8aea80945c2dd7b3f9.gif)
-
 # Gabriel Carvalho De Souza
-
 **Software Developer** | **Computer Science Student <>**
-
 </div>
 
 ## 👋 About Me
-
 I'm a Computer Science student at PUC Minas with strong problem-solving skills and a methodical approach to software development. I specialize in creating efficient solutions through code and enjoy working on both software and hardware projects.
 
 With a solid foundation in programming and systems development, I'm continuously expanding my technical expertise while maintaining practical, results-oriented approach to technology.
@@ -21,7 +17,6 @@ With a solid foundation in programming and systems development, I'm continuously
 - 🔧 **Practical Projects** - Experience in both software development and hardware assemblies  
 - ☕ **Java Development** - Focused on building structured and object-oriented applications using **Java** for backend and desktop solutions  
 - 🐍 **Python Development** - Creating automations, data processing tools, and small web apps to optimize everyday tasks  
-
 
 ## 🛠️ Technologies & Tools
 
@@ -41,6 +36,11 @@ With a solid foundation in programming and systems development, I'm continuously
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🚀 Deploy & Cloud
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699.svg?style=for-the-badge&logo=neon&logoColor=white)
+
 ### ⚙️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -50,13 +50,10 @@ With a solid foundation in programming and systems development, I'm continuously
 ![Software](https://img.shields.io/badge/Software_Development-6DB33F?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 ## 📊 Coding Activity
-
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=xubous&theme=dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&text_color=FFFFFF&langs_count=6)
-
 </div>
 
 ---
@@ -68,5 +65,4 @@ Email: gcs232005@gmail.com
 LinkedIn: [www.linkedin.com/in/xubous](https://www.linkedin.com/in/xubous)
 
 *Always learning, always growing.* 🚀
-
 </div>
