@@ -49,15 +49,6 @@ With a solid foundation in programming and systems development, I'm continuously
 ![Hardware](https://img.shields.io/badge/Hardware_Assembly-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Software](https://img.shields.io/badge/Software_Development-6DB33F?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
-## 📊 Coding Activity
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xubous&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
-</div>
 </div>
 
 ---
