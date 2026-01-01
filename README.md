@@ -50,10 +50,14 @@ With a solid foundation in programming and systems development, I'm continuously
 ![Software](https://img.shields.io/badge/Software_Development-6DB33F?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 ## 📊 Coding Activity
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=xubous&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=github_dark&hide_border=true&bg_color=0C0C0C&title_color=FF7B25&text_color=FFFFFF&langs_count=6)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xubous&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 </div>
 
 ---
