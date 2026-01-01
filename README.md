@@ -51,13 +51,13 @@ With a solid foundation in programming and systems development, I'm continuously
 
 ## 📊 Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xubous&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xubous&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xubous&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+</div>
 </div>
 
 ---
