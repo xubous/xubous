@@ -59,5 +59,5 @@ With a solid foundation in programming and systems development, I'm continuously
 Email: gcs232005@gmail.com  
 LinkedIn: [www.linkedin.com/in/xubous](https://www.linkedin.com/in/xubous)
 
-*Always learning, always growing.* 🚀
+*Always learning, always growing.*
 </div>
