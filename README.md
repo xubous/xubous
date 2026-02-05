@@ -51,7 +51,7 @@ With a solid foundation in programming and systems development, I'm continuously
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xubous)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=xubous&theme=dark&hide_border=true&locale=pt_BR&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
 
