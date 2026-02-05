@@ -51,7 +51,11 @@ With a solid foundation in programming and systems development, I'm continuously
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xubous)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
